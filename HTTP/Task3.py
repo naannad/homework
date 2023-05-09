@@ -7,7 +7,7 @@ import requests
 import json
 
 # Номер персонажа в журнале
-start = 9
+start = 2
 end = start * 5
 
 # Отправляем GET-запрос на адрес https://rickandmortyapi.com/api/character/ и получаем данные о персонажах
